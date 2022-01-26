@@ -123,15 +123,15 @@ You can extract many important facts about your data with Pandas and Numpy. But,
     -Custom your plots
 Videos:
 
-[Corey Schafer - Matplotlib]
+[Corey Schafer - Matplotlib](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
-[Keith Galli - Pandas]
+[Keith Galli - Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
 
 [Keith Galli - Solving Real World Data Science Tasks]
 
 Reading Materials:
 
-[MatplotLib Documentation]
+[MatplotLib Documentation](https://matplotlib.org/)
 
 [MatplotLib Cheatsheets]
 
